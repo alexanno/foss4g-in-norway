@@ -27,7 +27,7 @@ Knowledge
   * Earlier initiatives - smaller seminars etc
   * 2013 - Norkart took initiative 
   * 2014 - Norkart & Avinet collaborates
-  * 2015 - Motivate Students with backing from organizations
+  * 2015 - Motivate student organizations with backing from private companies and GeoForum (assocation for geomatics)
 
 * Hackathons / conference sessions
   * Hack4NO - use of open data sets
