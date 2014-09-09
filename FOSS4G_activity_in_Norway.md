@@ -1,3 +1,6 @@
+Presented at FOSS4G Portland 2014. 
+Drafted by Robert Nordan (Norkart), Atle Frenvik Sveen (Bouvet) and Alexander Salveson Nossum (Norkart)
+
 Organization
 ------------
 * No organization - will keep it as an ad-hoc activity
