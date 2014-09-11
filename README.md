@@ -5,7 +5,7 @@ Organization
 ------------
 * No organization - will keep it as an ad-hoc activity
 * Many interested in open source in general as well as FOSS4G
-* 25 participants in Portland with several presentations
+* ~30 participants in Portland with several presentations
 * ~30 participants Nottingham with several presentations
 * Motivation for open source in government: 
 	* Agency for public management and eGovernment (DIFI)
