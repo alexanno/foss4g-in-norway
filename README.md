@@ -43,7 +43,7 @@ Software
 * Norkart: 
   * Leaflet plugin
   * Globen (Virtual globe software)
-  * Several minor contributions
+  * Several minor contributions [1](https://github.com/libgeos/libgeos/pull/4) [2](https://github.com/libgeos/libgeos/pull/5)
 * Norkart WEBATLAS (used by Finn.no and 1881) - FOSS4G pipeline
 * NRK uses several FOSS4G tools
 * Fylkesmannen i Rogaland (county council): Norwegian translation of QGIS
