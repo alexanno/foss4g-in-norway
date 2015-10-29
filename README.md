@@ -41,7 +41,7 @@ Software
 --------
 * Statens Vegvesen: Geoserver/GeoWebCache contribution + several open source projects
 * Norkart: 
-  * Leaflet plugin
+  * Leaflet plugin [1](https://github.com/Norkart/Leaflet-MiniMap)
   * Globen (Virtual globe software)
   * Several minor contributions [1](https://github.com/libgeos/libgeos/pull/4) [2](https://github.com/libgeos/libgeos/pull/5)
 * Norkart WEBATLAS (used by Finn.no and 1881) - FOSS4G pipeline
